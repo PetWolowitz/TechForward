@@ -13,4 +13,4 @@ Presentazione di servizi tecnologici avanzati
 Interfaccia user-friendly
 
 La landing page è stata progettata per fornire un'esperienza utente fluida e professionale, riflettendo l'innovazione tecnologica che rappresenta.
-Visita la pagina su: landingPage.purplecoast.it
+Visita la pagina su:[ www.landingPage.purplecoast.it](https://landingpage.purplecoast.it/)
