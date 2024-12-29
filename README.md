@@ -1,8 +1,16 @@
-# React + Vite
+Landing Page TechForward: Un'innovativa vetrina digitale che presenta i servizi tecnologici del futuro. Il sito mostra come la tecnologia può trasformare il business attraverso sezioni interattive che illustrano soluzioni all'avanguardia e servizi personalizzati. Con un design moderno e minimalista, la pagina guida i visitatori attraverso le potenzialità della trasformazione digitale.
+Sviluppata utilizzando tecnologie moderne:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React per una UI dinamica e reattiva
+Vite come build tool per prestazioni ottimizzate
+TailwindCSS per uno styling modulare e flessibile
 
-Currently, two official plugins are available:
+Caratteristiche principali:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Design responsive e intuitivo
+Focus sulla trasformazione digitale
+Presentazione di servizi tecnologici avanzati
+Interfaccia user-friendly
+
+La landing page è stata progettata per fornire un'esperienza utente fluida e professionale, riflettendo l'innovazione tecnologica che rappresenta.
+Visita la pagina su: landingPage.purplecoast.it
